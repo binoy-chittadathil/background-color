@@ -1,0 +1,15 @@
+.container1{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+}
+.container2{
+    background-color: rgba(241, 233, 229, 0.658);
+    width: 200px;
+    height: 200px;
+}
+.container3{
+    background-color: rgb(0, 255, 149);
+    width: 200px;
+    height: 200px;
+}
